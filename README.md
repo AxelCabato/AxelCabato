@@ -1,6 +1,5 @@
 ## Welcome to my GitHub profile 👋
-- 😄 Pronouns: he/him/they
-- 🌱 I’m currently learning: HTML, CSS, JavaScript, Java, SQL
+- Currently learning: HTML, CSS, JavaScript, Java, SQL
 
 <!--
 **AxelCabato/AxelCabato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
